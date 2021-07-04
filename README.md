@@ -1,2 +1,2 @@
 # Prova-Java
- Exercícios de coceitos de java e criatividade
+ Exercícios de conceitos de java e criatividade
